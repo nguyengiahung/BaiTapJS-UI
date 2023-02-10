@@ -1,0 +1,25 @@
+
+
+.heading1 {
+    margin-top: 50px;
+}
+
+input {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px 15px;
+}
+
+button {
+    background-color: #4b70e2;
+    border-radius: 30px;
+    padding: 10px 45px;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.form2-container {
+    width: 65%;
+}
